@@ -1,2 +1,0 @@
-# -karima--containers
-Docker project
